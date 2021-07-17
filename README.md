@@ -5,9 +5,8 @@ Good Day,
   This GitHub account is being utilized to practice various
   programming languages and become a more proficient practitioner.
   
-  My current focus is on front-end development. My education is 
-  focused on back-end JAVA and Python, so I seek to become a 
-  well rounded full stack developer.
+  My current focus is on iOS Development. My education is 
+  focused mainly on back-end JAVA and Python, so I'm seeking to broaden my horizons.
   
   Any and all feedback is welcomed, thank you for your time
   and happy coding!
